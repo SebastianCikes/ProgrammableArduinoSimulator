@@ -1,5 +1,5 @@
 # ProgrammableArduinoSimulator
-Programmable simulator for finite state automaton
+* Programmable simulator for finite state automaton
 
 Upload the Arduino file to an Arduino MEGA.
 Launch the Processing program,
